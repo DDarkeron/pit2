@@ -1,0 +1,18 @@
+inc
+inc
+print
+* output 2
+movr
+get
+printc
+* output symbol
+movr
+inc
+inc
+begin
+dec
+inc
+dec
+end
+print
+* output 0
